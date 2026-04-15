@@ -1,0 +1,21 @@
+{
+  "north_star_metric": "Monthly Active Learners (MAL) with 7+ Day Practice Streak",
+  "justification": [
+    "Measures sustained engagement and habit formation",
+    "Indicates genuine learning progress versus casual usage",
+    "Correlates with 3x higher conversion rates and 5x better retention",
+    "Trial → Paid conversion rate (Target: 12-18%)",
+    "W1 Retention post-conversion (Target: 65-75%)",
+    "Monthly Retention (D30+) (Target: 45-60%)",
+    "Average practice sessions per active week (Target: 4.2+)"
+  ],
+  "measurable_proxy": {
+    "name": "Monthly Active Learners (MAL) with 7+ Day Practice Streak",
+    "definition": "Count of monthly active learners who maintain a 7+ day practice streak.",
+    "formula": "Monthly active learners with streak >= 7 days",
+    "time_window": "Monthly",
+    "reason": "The knowledge bank explicitly defines this as the primary metric for sustained engagement and habit formation."
+  },
+  "supporting_metrics": [],
+  "confidence_note": "High confidence because the knowledge bank explicitly names the primary metric and supporting metrics."
+}

@@ -1,0 +1,11 @@
+segment_id,segment_name,lifecycle_stage,user_count_in_cohort,churn_risk,avg_activeness_score,top_octolysis_drive,recommended_notif_freq,primary_goal,sub_goal_1,sub_goal_2,sub_goal_3,recommended_features,north_star_lever,core_drive,success_metric,communication_priority,churn_risk_response_strategy,north_star_alignment_note,day,day_focus
+SEG_00,Moderately Active Users,paid,100,high,0.296,Accomplishment,1,ERROR: Gemini response could not be parsed,,,,,unknown,Accomplishment,unknown,low,Fallback used for churn label high,unknown,,
+SEG_00,Moderately Active Users,paid,500,low,0.572,Accomplishment,2,ERROR: Gemini response could not be parsed,,,,,unknown,Accomplishment,unknown,low,Fallback used for churn label low,unknown,,
+SEG_00,Moderately Active Users,paid,361,medium,0.43,Accomplishment,2,ERROR: Gemini response could not be parsed,,,,,unknown,Accomplishment,unknown,low,Fallback used for churn label medium,unknown,,
+SEG_00,Moderately Active Users,trial,311,high,0.249,Accomplishment,2,ERROR: Gemini response could not be parsed,,,,,unknown,Accomplishment,unknown,low,Fallback used for churn label high,unknown,,
+SEG_00,Moderately Active Users,trial,137,medium,0.37,Accomplishment,2,ERROR: Gemini response could not be parsed,,,,,unknown,Accomplishment,unknown,low,Fallback used for churn label medium,unknown,,
+SEG_01,Low Activity Users,churned,221,critical,0.038,Ownership,1,ERROR: Gemini response could not be parsed,,,,,unknown,Ownership,unknown,low,Fallback used for churn label critical,unknown,,
+SEG_01,Low Activity Users,inactive,267,high,0.023,Ownership,1,ERROR: Gemini response could not be parsed,,,,,unknown,Ownership,unknown,low,Fallback used for churn label high,unknown,,
+SEG_01,Low Activity Users,trial,30,critical,0.041,Ownership,2,ERROR: Gemini response could not be parsed,,,,,unknown,Ownership,unknown,low,Fallback used for churn label critical,unknown,,
+SEG_01,Low Activity Users,trial,71,high,0.215,Ownership,2,ERROR: Gemini response could not be parsed,,,,,unknown,Ownership,unknown,low,Fallback used for churn label high,unknown,,
+SEG_01,Low Activity Users,trial,2,medium,0.344,Ownership,2,ERROR: Gemini response could not be parsed,,,,,unknown,Ownership,unknown,low,Fallback used for churn label medium,unknown,,

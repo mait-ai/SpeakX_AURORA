@@ -1,0 +1,314 @@
+{
+  "allowed_tones": [
+    {
+      "tone": "Empowerment",
+      "description": "Affirms learner growth, agency, and confidence-building.",
+      "allowed_for": [
+        "confidence building",
+        "habit reinforcement",
+        "progress updates"
+      ],
+      "disallowed_for": [
+        "shame-based reminders"
+      ],
+      "evidence": [
+        "\"Your English journey is progressing beautifully\"",
+        "\"You're building confidence one conversation at a time\"",
+        "\"Every practice session brings you closer to your goals\""
+      ]
+    },
+    {
+      "tone": "Accomplishment",
+      "description": "Highlights milestones, progress, and achievements.",
+      "allowed_for": [
+        "milestone messages",
+        "streak celebrations",
+        "progress notifications"
+      ],
+      "disallowed_for": [
+        "false achievement claims"
+      ],
+      "evidence": [
+        "\"You've completed 5 lessons this week!\"",
+        "\"Milestone unlocked: 30-day practice streak\"",
+        "\"You're now in the top 10% of learners in your city\""
+      ]
+    },
+    {
+      "tone": "Encouragement",
+      "description": "Supports continued practice with positive reinforcement.",
+      "allowed_for": [
+        "daily reminders",
+        "re-engagement",
+        "consistency nudges"
+      ],
+      "disallowed_for": [
+        "pressure tactics"
+      ],
+      "evidence": [
+        "\"Let's practice together today\"",
+        "\"Your speaking skills are improving every day\"",
+        "\"Keep up the great momentum\""
+      ]
+    },
+    {
+      "tone": "Social Influence",
+      "description": "Uses peers or broader community as positive motivation.",
+      "allowed_for": [
+        "leaderboards",
+        "community features",
+        "peer-based motivation"
+      ],
+      "disallowed_for": [
+        "harmful comparison",
+        "humiliation"
+      ],
+      "evidence": [
+        "\"3 friends joined SpeakX this week in your area\"",
+        "\"Your colleague Priya is on a 15-day streak\"",
+        "\"Join 50,000+ learners transforming their careers\""
+      ]
+    },
+    {
+      "tone": "Scarcity (Positive)",
+      "description": "Creates urgency without fear or manipulation.",
+      "allowed_for": [
+        "trial conversion",
+        "limited-time opportunities",
+        "live sessions"
+      ],
+      "disallowed_for": [
+        "fear-heavy loss framing",
+        "deceptive urgency"
+      ],
+      "evidence": [
+        "\"Only 2 days left in your trial - continue your journey\"",
+        "\"Unlock premium scenarios before your streak resets\"",
+        "\"Limited spots: Join this weekend's live masterclass\""
+      ]
+    },
+    {
+      "tone": "Ownership",
+      "description": "Frames progress, balance, or pathway as belonging to the learner.",
+      "allowed_for": [
+        "coins",
+        "progress reports",
+        "learning path reminders"
+      ],
+      "disallowed_for": [
+        "guilt-heavy possession framing"
+      ],
+      "evidence": [
+        "\"Your 50-coin balance is waiting\"",
+        "\"Your personalized learning path is ready\"",
+        "\"Your weekly progress report is here\""
+      ]
+    }
+  ],
+  "disallowed_tones": [
+    {
+      "tone": "Fear/Anxiety",
+      "reason": "\"Don't lose your progress!\"",
+      "evidence": [
+        "\"Don't lose your progress!\"",
+        "\"Your career is at risk without English skills\"",
+        "\"You're falling behind\""
+      ]
+    },
+    {
+      "tone": "Shame/Guilt",
+      "reason": "\"You missed practice again\"",
+      "evidence": [
+        "\"You missed practice again\"",
+        "\"Others are ahead of you\"",
+        "\"Your streak is broken - what happened?\""
+      ]
+    },
+    {
+      "tone": "Excessive Urgency",
+      "reason": "\"LAST CHANCE! Subscribe NOW!\"",
+      "evidence": [
+        "\"LAST CHANCE! Subscribe NOW!\"",
+        "\"Your account will be deleted in 24 hours\"",
+        "\"Don't miss out - everyone else is subscribing\""
+      ]
+    },
+    {
+      "tone": "Comparison (Negative)",
+      "reason": "\"You're slower than average learners\"",
+      "evidence": [
+        "\"You're slower than average learners\"",
+        "\"Your friend is better than you\"",
+        "\"Why aren't you practicing like others?\""
+      ]
+    },
+    {
+      "tone": "Manipulation",
+      "reason": "\"We'll delete your data if you don't subscribe\"",
+      "evidence": [
+        "\"We'll delete your data if you don't subscribe\"",
+        "\"Your family will be disappointed\"",
+        "\"Hide this from others - special deal only for you\""
+      ]
+    }
+  ],
+  "hook_taxonomy": [
+    {
+      "hook": "\"Your practice today contributes to breaking language barriers across India\"",
+      "type": "Epic Meaning & Calling (Core Drive 1)",
+      "description": "Social impact, generational change, being part of movement",
+      "best_for_stages": [
+        "awareness",
+        "activation"
+      ],
+      "best_for_features": [
+        "\"Join 50",
+        "000+ learners transforming India's English fluency\""
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "\"Join 50,000+ learners transforming India's English fluency\"",
+        "\"Your practice today contributes to breaking language barriers across India\"",
+        "Social impact, generational change, being part of movement"
+      ]
+    },
+    {
+      "hook": "\"You've mastered 15 business scenarios - expert level unlocked!\"",
+      "type": "Development & Accomplishment (Core Drive 2)",
+      "description": "Skill mastery, visible progress, competence demonstration",
+      "best_for_stages": [
+        "activation",
+        "retention"
+      ],
+      "best_for_features": [
+        "Level progression",
+        "badges",
+        "certificates"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Level progression, badges, certificates",
+        "\"You've mastered 15 business scenarios - expert level unlocked!\"",
+        "Skill mastery, visible progress, competence demonstration"
+      ]
+    },
+    {
+      "hook": "\"Design your own practice scenario and share with the community\"",
+      "type": "Empowerment of Creativity (Core Drive 3)",
+      "description": "Creative expression, personalized learning, strategy optimization",
+      "best_for_stages": [
+        "activation",
+        "retention"
+      ],
+      "best_for_features": [
+        "Free conversation mode",
+        "custom roleplay creation"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Free conversation mode, custom roleplay creation",
+        "\"Design your own practice scenario and share with the community\"",
+        "Creative expression, personalized learning, strategy optimization"
+      ]
+    },
+    {
+      "hook": "\"Your 250 coins can unlock exclusive pronunciation masterclass\"",
+      "type": "Ownership & Possession (Core Drive 4)",
+      "description": "Asset accumulation, investment protection, portfolio building",
+      "best_for_stages": [
+        "retention",
+        "conversion"
+      ],
+      "best_for_features": [
+        "Coin collection",
+        "streak ownership",
+        "progress portfolio"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Coin collection, streak ownership, progress portfolio",
+        "\"Your 250 coins can unlock exclusive pronunciation masterclass\"",
+        "Asset accumulation, investment protection, portfolio building"
+      ]
+    },
+    {
+      "hook": "\"Ravi from your company just completed the same lesson\"",
+      "type": "Social Influence & Relatedness (Core Drive 5)",
+      "description": "Peer comparison, social validation, community belonging",
+      "best_for_stages": [
+        "activation",
+        "retention"
+      ],
+      "best_for_features": [
+        "Leaderboards",
+        "friend challenges",
+        "group learning"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Leaderboards, friend challenges, group learning",
+        "\"Ravi from your company just completed the same lesson\"",
+        "Peer comparison, social validation, community belonging"
+      ]
+    },
+    {
+      "hook": "\"Weekend masterclass: Only 50 spots available for your city\"",
+      "type": "Scarcity & Impatience (Core Drive 6)",
+      "description": "Exclusive access, time-sensitive opportunities, rare achievements",
+      "best_for_stages": [
+        "conversion",
+        "re-engagement"
+      ],
+      "best_for_features": [
+        "Limited-time challenges",
+        "seasonal events",
+        "early access"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Limited-time challenges, seasonal events, early access",
+        "\"Weekend masterclass: Only 50 spots available for your city\"",
+        "Exclusive access, time-sensitive opportunities, rare achievements"
+      ]
+    },
+    {
+      "hook": "\"Unlock today's surprise lesson - topic revealed after completion\"",
+      "type": "Unpredictability & Curiosity (Core Drive 7)",
+      "description": "Discovery, anticipation, varied experiences",
+      "best_for_stages": [
+        "activation",
+        "retention"
+      ],
+      "best_for_features": [
+        "Daily surprise challenges",
+        "mystery rewards",
+        "random pronunciation tips"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Daily surprise challenges, mystery rewards, random pronunciation tips",
+        "\"Unlock today's surprise lesson - topic revealed after completion\"",
+        "Discovery, anticipation, varied experiences"
+      ]
+    },
+    {
+      "hook": "\"Save your 14-day streak with one quick lesson today\"",
+      "type": "Loss & Avoidance (Core Drive 8)",
+      "description": "Progress protection, investment preservation, continuity maintenance",
+      "best_for_stages": [
+        "re-engagement",
+        "retention"
+      ],
+      "best_for_features": [
+        "Streak save opportunities (positive framing)",
+        "progress preservation"
+      ],
+      "risk_notes": "Use ethically and avoid manipulative framing.",
+      "evidence": [
+        "Streak save opportunities (positive framing), progress preservation",
+        "\"Save your 14-day streak with one quick lesson today\"",
+        "Progress protection, investment preservation, continuity maintenance"
+      ]
+    }
+  ]
+}
