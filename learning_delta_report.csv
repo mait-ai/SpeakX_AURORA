@@ -1,0 +1,39 @@
+entity_type,entity_id,changed_field,before_value,after_value,metric_trigger,explanation
+timing,SEG_00_PAI_HIG,secondary_window,late_afternoon,evening,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+timing,SEG_00_TRI_HIG,primary_window,afternoon,late_afternoon,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+timing,SEG_00_TRI_HIG,secondary_window,late_afternoon,afternoon,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+timing,SEG_01_CHU_HIG,secondary_window,evening,afternoon,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+timing,SEG_01_TRI_CRI,primary_window,mid_morning,early_morning,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+timing,SEG_01_TRI_CRI,secondary_window,early_morning,mid_morning,window_score_from_experiment_results,"Timing updated using observed CTR, engagement, uninstall, and send volume."
+template,TMPL_0002,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0005,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0003,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0004,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0001,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0007,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0008,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0010,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0009,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0006,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0012,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0017,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0025,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0023,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0022,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0024,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0021,iteration1_action,iteration_0_active,PROMOTE,predicted_quality_score,Template assigned action PROMOTE for Iteration 1.
+template,TMPL_0027,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0028,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0030,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0029,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0026,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0032,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0035,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0033,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0037,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0042,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0043,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0045,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0044,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0041,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
+template,TMPL_0047,iteration1_action,iteration_0_active,KEEP,predicted_quality_score,Template assigned action KEEP for Iteration 1.
