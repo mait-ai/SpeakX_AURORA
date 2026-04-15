@@ -1,0 +1,11 @@
+segment_id,segment_name,lifecycle_stage,churn_risk,avg_activeness,avg_notif_open_rate,primary_window,primary_window_range,primary_window_prob,expected_ctr_primary,secondary_window,secondary_window_range,secondary_window_prob,expected_ctr_secondary,learning_source
+SEG_00_PAI_HIG,Moderately Active Users,paid,high,0.28,0.446,afternoon,12:00-14:59,1.0,44.54,evening,18:00-20:59,0.0,38.61,experiment_results
+SEG_00_PAI_LOW,Moderately Active Users,paid,low,0.565,0.402,late_afternoon,15:00-17:59,1.0,45.0,afternoon,12:00-14:59,0.0,45.0,experiment_results
+SEG_00_PAI_MED,Moderately Active Users,paid,medium,0.424,0.43,late_afternoon,15:00-17:59,1.0,34.95,afternoon,12:00-14:59,0.0,40.1,experiment_results
+SEG_00_TRI_HIG,Moderately Active Users,trial,high,0.264,0.351,late_afternoon,15:00-17:59,1.0,28.87,afternoon,12:00-14:59,0.0,23.47,experiment_results
+SEG_00_TRI_MED,Moderately Active Users,trial,medium,0.374,0.405,late_afternoon,15:00-17:59,1.0,43.75,evening,18:00-20:59,0.0,36.56,experiment_results
+SEG_01_CHU_CRI,Low Activity Users,churned,critical,0.038,0.098,afternoon,12:00-14:59,1.0,11.84,early_morning,06:00-08:59,0.0,9.18,experiment_results
+SEG_01_CHU_HIG,Low Activity Users,churned,high,0.076,0.115,night,21:00-23:59,0.9987,14.86,afternoon,12:00-14:59,0.0013,16.5,experiment_results
+SEG_01_INA_CRI,Low Activity Users,inactive,critical,0.023,0.051,night,21:00-23:59,1.0,11.01,mid_morning,09:00-11:59,0.0,11.13,experiment_results
+SEG_01_TRI_CRI,Low Activity Users,trial,critical,0.032,0.038,early_morning,06:00-08:59,0.9999,14.4,mid_morning,09:00-11:59,0.0001,10.77,experiment_results
+SEG_01_TRI_HIG,Low Activity Users,trial,high,0.194,0.253,afternoon,12:00-14:59,1.0,29.77,late_afternoon,15:00-17:59,0.0,12.91,experiment_results
